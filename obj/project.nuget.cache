@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "raqjbs00fw5SvLejGdk0KfTrvESpNE3cSh1GPp0rcrHVdjfihEXfptKNT7U7ALjNIfjzo/FrNc6VVDWHGAoRTQ==",
+  "dgSpecHash": "Sahksafm8Zp3JbZKYJmNKOZQsIIX0OZb/RTVPcBZzbIPLnQuPjF/e3T1MP5Q8vcEkqjamwN6SuyGoSdSnFbUVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\宰\\Desktop\\MSTutorial\\ASP.NET\\MSTutorial\\SignalRWebPack\\SignalRWebPack.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\宰\\.nuget\\packages\\microsoft.typescript.msbuild\\4.0.3\\microsoft.typescript.msbuild.4.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
